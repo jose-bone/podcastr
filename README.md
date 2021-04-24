@@ -47,7 +47,7 @@ The app will be available for access on your browser at `http://localhost:3000`
 
 ## 💻 Project
 
-[Podcastr](https://) to bring you even closer to the best technology podcasts! 💜
+[Podcastr](https://podcastr-jose-bone.vercel.app) to bring you even closer to the best technology podcasts! 💜
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
 
