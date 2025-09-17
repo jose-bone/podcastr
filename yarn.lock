@@ -3,10 +3,8 @@
 
 
 "@babel/runtime@^7.10.1", "@babel/runtime@^7.11.1", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5":
-  version "7.15.3"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.15.3.tgz#2e1c2880ca118e5b2f9988322bd8a7656a32502b"
-  dependencies:
-    regenerator-runtime "^0.13.4"
+  version "7.28.4"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.28.4.tgz#a70226016fabe25c5783b2f22d3e1c9bc5ca3326"
 
 "@next/env@14.2.32":
   version "14.2.32"
@@ -675,10 +673,6 @@ readdirp@~3.6.0:
   resolved "https://registry.yarnpkg.com/readdirp/-/readdirp-3.6.0.tgz#74a370bd857116e245b29cc97340cd431a02a6c7"
   dependencies:
     picomatch "^2.2.1"
-
-regenerator-runtime@^0.13.4:
-  version "0.13.7"
-  resolved "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.13.7.tgz"
 
 regex-parser@^2.2.11:
   version "2.2.11"
