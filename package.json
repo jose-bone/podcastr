@@ -21,9 +21,9 @@
     "sass": "^1.101.0"
   },
   "devDependencies": {
-    "@types/node": "^14.14.41",
+    "@types/node": "^24.18.0",
     "@types/react": "^17.0.3",
-    "json-server": "^24.18.0",
+    "json-server": "^1.0.0-beta.15",
     "resolve-url-loader": "^5.0.0",
     "typescript": "^4.2.4"
   }
