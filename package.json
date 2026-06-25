@@ -12,18 +12,18 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.28.0",
+    "axios": "^1.16.0",
     "date-fns": "^2.21.1",
-    "next": "14.1.1",
+    "next": "15.5.18",
     "rc-slider": "^9.7.2",
     "react": "17.0.2",
     "react-dom": "^17.0.2",
-    "sass": "^1.32.11"
+    "sass": "^1.101.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.41",
     "@types/react": "^17.0.3",
-    "json-server": "^0.17.1",
+    "json-server": "^1.0.0-beta.15",
     "resolve-url-loader": "^5.0.0",
     "typescript": "^4.2.4"
   }
