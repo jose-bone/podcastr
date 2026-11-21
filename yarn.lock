@@ -150,41 +150,41 @@
   version "0.35.5"
   resolved "https://registry.yarnpkg.com/@img/sharp-win32-x64/-/sharp-win32-x64-0.35.5.tgz#1785356b8cb396e58430e03865281280acb818b1"
 
-"@next/env@15.5.28":
-  version "15.5.28"
-  resolved "https://registry.yarnpkg.com/@next/env/-/env-15.5.28.tgz#baeca1a42e756f461b676ff7efdb0bc9d6f6de44"
+"@next/env@15.5.29":
+  version "15.5.29"
+  resolved "https://registry.yarnpkg.com/@next/env/-/env-15.5.29.tgz#eac699ab559a810f16e2172c1848eebb0a7579fc"
 
-"@next/swc-darwin-arm64@15.5.28":
-  version "15.5.28"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-15.5.28.tgz#e1305f3c10199e950bb95b07cc426f29298d050d"
+"@next/swc-darwin-arm64@15.5.29":
+  version "15.5.29"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-15.5.29.tgz#3cfd67188487c113583e5b4e54da3b9dec1e7337"
 
-"@next/swc-darwin-x64@15.5.28":
-  version "15.5.28"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-15.5.28.tgz#f27a036f96c6b92d628779e2f563c112e3c17a75"
+"@next/swc-darwin-x64@15.5.29":
+  version "15.5.29"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-15.5.29.tgz#8401421742a74296a357708262fbeb686dad6378"
 
-"@next/swc-linux-arm64-gnu@15.5.28":
-  version "15.5.28"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-15.5.28.tgz#268ab89d9413551796be6ae46138157b684dd9f4"
+"@next/swc-linux-arm64-gnu@15.5.29":
+  version "15.5.29"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-15.5.29.tgz#db3e746e376857d6e41c12e21aca81c4938bf246"
 
-"@next/swc-linux-arm64-musl@15.5.28":
-  version "15.5.28"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-15.5.28.tgz#f12446fd30140e3b3fbe2fec16af34b6be98c62d"
+"@next/swc-linux-arm64-musl@15.5.29":
+  version "15.5.29"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-15.5.29.tgz#011f57f1baae9649c5d3631500d8edaf142be0f7"
 
-"@next/swc-linux-x64-gnu@15.5.28":
-  version "15.5.28"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-15.5.28.tgz#d444703621a68461d0a74515951be9b05a209ce5"
+"@next/swc-linux-x64-gnu@15.5.29":
+  version "15.5.29"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-15.5.29.tgz#d9f22e05bbf16ce8733916832b88373224e78163"
 
-"@next/swc-linux-x64-musl@15.5.28":
-  version "15.5.28"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-15.5.28.tgz#058ea33f8156cdb0dda1cd114ef879a4d933c29f"
+"@next/swc-linux-x64-musl@15.5.29":
+  version "15.5.29"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-15.5.29.tgz#ec74914ee1a9f0097ef7122d555594e70e9be9c9"
 
-"@next/swc-win32-arm64-msvc@15.5.28":
-  version "15.5.28"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-15.5.28.tgz#aa695e94922faf09ac6cbd480d2dc870bf807d4a"
+"@next/swc-win32-arm64-msvc@15.5.29":
+  version "15.5.29"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-15.5.29.tgz#2b26ee0aa918cf0fb1225294216ce3b6adece090"
 
-"@next/swc-win32-x64-msvc@15.5.28":
-  version "15.5.28"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-15.5.28.tgz#6f56363b38ad8cb76ab9421125a5f3afc2b92d65"
+"@next/swc-win32-x64-msvc@15.5.29":
+  version "15.5.29"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-15.5.29.tgz#64457feb3d956f2d14078fa21220175e526c82cb"
 
 "@parcel/watcher-android-arm64@2.5.6":
   version "2.5.6"
@@ -759,24 +759,24 @@ nanoid@^3.3.18, nanoid@^3.3.6:
   version "3.3.19"
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.19.tgz#336d4aa4bcd4fb24d2cddede7ffeae40bec03f0a"
 
-next@15.5.28:
-  version "15.5.28"
-  resolved "https://registry.yarnpkg.com/next/-/next-15.5.28.tgz#0589d32fa30ba712e4647deebeaabaf936e8a272"
+next@15.5.29:
+  version "15.5.29"
+  resolved "https://registry.yarnpkg.com/next/-/next-15.5.29.tgz#31402911d6b70759068731cb9579b55f818a0dcb"
   dependencies:
-    "@next/env" "15.5.28"
+    "@next/env" "15.5.29"
     "@swc/helpers" "0.5.15"
     caniuse-lite "^1.0.30001579"
     postcss "8.4.31"
     styled-jsx "5.1.6"
   optionalDependencies:
-    "@next/swc-darwin-arm64" "15.5.28"
-    "@next/swc-darwin-x64" "15.5.28"
-    "@next/swc-linux-arm64-gnu" "15.5.28"
-    "@next/swc-linux-arm64-musl" "15.5.28"
-    "@next/swc-linux-x64-gnu" "15.5.28"
-    "@next/swc-linux-x64-musl" "15.5.28"
-    "@next/swc-win32-arm64-msvc" "15.5.28"
-    "@next/swc-win32-x64-msvc" "15.5.28"
+    "@next/swc-darwin-arm64" "15.5.29"
+    "@next/swc-darwin-x64" "15.5.29"
+    "@next/swc-linux-arm64-gnu" "15.5.29"
+    "@next/swc-linux-arm64-musl" "15.5.29"
+    "@next/swc-linux-x64-gnu" "15.5.29"
+    "@next/swc-linux-x64-musl" "15.5.29"
+    "@next/swc-win32-arm64-msvc" "15.5.29"
+    "@next/swc-win32-x64-msvc" "15.5.29"
     sharp "^0.34.3 || ^0.35.5"
 
 node-addon-api@^7.0.0:
